@@ -1,0 +1,11 @@
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\bin\Debug\netcoreapp2.1\adapterP2.deps.json
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\bin\Debug\netcoreapp2.1\adapterP2.runtimeconfig.json
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\bin\Debug\netcoreapp2.1\adapterP2.runtimeconfig.dev.json
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\bin\Debug\netcoreapp2.1\adapterP2.dll
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.csprojAssemblyReference.cache
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.csproj.CoreCompileInputs.cache
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.AssemblyInfoInputs.cache
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.AssemblyInfo.cs
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\bin\Debug\netcoreapp2.1\adapterP2.pdb
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.dll
+C:\Users\TBJ\source\repos\adapterP2\adapterP2\obj\Debug\netcoreapp2.1\adapterP2.pdb

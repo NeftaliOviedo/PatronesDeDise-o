@@ -1,0 +1,11 @@
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\bin\Debug\netcoreapp2.1\mediatorP2.deps.json
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\bin\Debug\netcoreapp2.1\mediatorP2.runtimeconfig.json
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\bin\Debug\netcoreapp2.1\mediatorP2.runtimeconfig.dev.json
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\bin\Debug\netcoreapp2.1\mediatorP2.dll
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\bin\Debug\netcoreapp2.1\mediatorP2.pdb
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.csprojAssemblyReference.cache
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.csproj.CoreCompileInputs.cache
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.AssemblyInfoInputs.cache
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.AssemblyInfo.cs
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.dll
+C:\Users\TBJ\source\repos\mediatorP2\mediatorP2\obj\Debug\netcoreapp2.1\mediatorP2.pdb
